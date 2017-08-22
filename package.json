@@ -1,13 +1,13 @@
 {
-  "name": "bunyan-prettystream-circularsafe",
-  "version": "0.3.1",
-  "description": "A stream implementation of the bunyan cli tool's pretty printing capabilities with circular reference safety",
-  "author": "Daryl Collins <daryl.collins@pushpay.com>",
+  "name": "bunyans",
+  "version": "0.3.3",
+  "description": "A stream implementation of the bunyan cli tool's pretty printing capabilities with circular reference safety and custom formatting",
+  "author": "WoLfulus <wolfulus@gmail.com>",
   "main": "./lib/prettystream.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/MaximusHaximus/node-bunyan-prettystream.git"
+    "url": "git://github.com/WoLfulus/bunyans.git"
   },
   "engines": [
     "node >=0.8.0"

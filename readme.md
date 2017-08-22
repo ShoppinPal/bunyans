@@ -6,8 +6,10 @@ output to another application (such as WebStorm).
 This library is only really meant for development and should not be used on production environments.
 
 This package is based on a fork of bunyan-prettystream which was originally created by Amar Suhail (https://github.com/mrrama/node-bunyan-prettystream).
-This fork was originally created by Nathan Hadfield (https://github.com/hadfieldn/node-bunyan-prettystream), and contains code that makes logging objects with circular references safe,
-along with other community-provided fixes and updated dependencies.
+This fork was originally created by Nathan Hadfield (https://github.com/hadfieldn/node-bunyan-prettystream), and contains code that makes logging objects with circular references safe, along with other community-provided fixes and updated dependencies.
+
+This fork is a fork of a fork (https://github.com/MaximusHaximus/node-bunyan-prettystream) for my custom tests and implementations and usage in my own projects. :P
+
 
 # Usage
 
